@@ -5,7 +5,7 @@ from config import BOT_USERNAME
 
 EVAA = [
     [
-        InlineKeyboardButton(text="ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ", url=f"https://t.me/nykaaxbot?startgroup=true"),
+        InlineKeyboardButton(text="ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ", url=f"https://t.me/MahakXbot?startgroup=true"),
     ],
 ]
 
